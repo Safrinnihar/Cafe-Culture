@@ -10,7 +10,7 @@ Identifying the top three cities for Cafe Culture’s expansion through data-dri
 
 # Exploratory Focus Areas
 	1.	How many customers made purchases in each city?
-	2.	What is the total revenue across cities in the last quarter of 2023?
+	2.	What is the total revenue across cities in the previous quarter?
 	3.	How many units of each product are sold?
 	4.	What is the average sales amount per customer in each city?
 	5.	What are the top 3 selling products in each city?
