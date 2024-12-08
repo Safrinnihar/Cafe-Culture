@@ -1,4 +1,4 @@
---Cafe Culture - Analysis
+--Cafe Culture - Analysis 
 
 select * from city;
 select * from products;
