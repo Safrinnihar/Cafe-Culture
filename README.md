@@ -20,7 +20,7 @@ Identifying the top three cities for Cafe Culture’s expansion through data-dri
 	9.	Identify the top 3 average sales across cities.
 	10.	Which cities have the highest percentage of revenue from rated products (Ratings above 4).
 
-#Recomendations: 
+# Recomendations: 
 1.  Pune: Best overall performance across sales, revenue, and customer engagement.
 2.  Jaipur: Large customer base, high demand, and consistent sales metrics.
 3.  Chennai: Strong engagement with high-rated products and a growing urban market.
