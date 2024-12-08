@@ -15,7 +15,7 @@ Identifying the top three cities for Cafe Culture’s expansion through data-dri
 	4.	What is the average sales amount per customer in each city?
 	5.	What are the top 3 selling products in each city?
 	6.	How many unique customers are there in each city?
-	7.	Find each city’s average sale per cost, average rent, average sale, and unique customer count.
+	7.	Find each city’s average rent (per customer), average sale (per customer) and unique customer count.
 	8.	Calculate the percentage growth in sales over different months.
 	9.	Identify the top 3 average sales across cities.
 	10.	Find the top 3 customers in the highest-sale city, including city name, top sale, total rent, and total customers.
